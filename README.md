@@ -1,5 +1,8 @@
 Angular Datepicker
 ==================
+
+*Fork of Angular datepicker to update for Angular 1.7*
+
 ![Angular datepicker calendar](http://i.imgur.com/jKfADtA.png)
 
 [![Join the chat at https://gitter.im/720kb/angular-datepicker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/720kb/angular-datepicker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
